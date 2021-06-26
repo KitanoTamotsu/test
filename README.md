@@ -1,27 +1,28 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/KitanoTamotsu/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# タイトル1　サンプル
+## タイトル2　サンプル
+### タイトル3　サンプル
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+普通のテキスト
+[リンクのサンプル](https://github.com/KitanoTamotsu/test/edit/main/README.md) はこんな感じ
 
-### Markdown
+コードのサンプル
+```
+echo xxx
+```
+1行の場合は``で囲む
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-箇条書きのサンプル
+-箇条書きのサンプル
 
-```markdown
-Syntax highlighted code block
+1. 番号のサンプル
+2. 番号のサンプル
 
-# Header 1
-## Header 2
-### Header 3
+**太字のサンプル**
+_斜のサンプル_
 
-- Bulleted
-- List
+![イメージの可能]()
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
