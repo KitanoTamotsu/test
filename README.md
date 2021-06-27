@@ -6,6 +6,8 @@
 普通のテキスト
 [リンクのサンプル](https://github.com/KitanoTamotsu/test/edit/main/README.md) はこんな感じ
 
+[ダウンロードのサンプル](https://kitanotamotsu.github.io/test/google.zip)
+
 コードのサンプル
 ```
 echo xxx
